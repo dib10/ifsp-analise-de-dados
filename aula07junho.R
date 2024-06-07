@@ -1,3 +1,6 @@
+#Media ----
+
+
 v = c(6,2,3,5,2)
 
 # precisamos de contador e de acumulador
@@ -14,3 +17,7 @@ for(x in v)
 }
 
 media = acum / cont
+
+
+
+#Moda ----
